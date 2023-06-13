@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "474530214679",
+    "project_id": "panduan-haji-1",
+    "storage_bucket": "panduan-haji-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474530214679:android:5d93f9a95c9d7672837d52",
+        "android_client_info": {
+          "package_name": "com.mediatechnopro.hajiumroh1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474530214679-61ajqlmfokucuq7ecjbvq4d5p2j8fasd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL-Js453BAXSC_qQI3H7DVP8Q8RfkmRXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474530214679-61ajqlmfokucuq7ecjbvq4d5p2j8fasd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
